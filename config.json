@@ -1,7 +1,7 @@
 {
   "TOKEN": "OTg0NzIzNzg1MjU5Mjk4ODQ2.GteBK0.oaaQtWxc9v4FvL4rn5XvgxvLdc3fR47GcvTgt8",
   "MAX_PLAYLIST_SIZE": 100,
-  "PREFIX": "!tm",
+  "PREFIX": "/tm3",
   "PRUNING": false,
   "LOCALE": "ja",
   "STAY_TIME": 30,
